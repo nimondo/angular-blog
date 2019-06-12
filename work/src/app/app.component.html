@@ -1,0 +1,17 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+      <h2>Posts</h2>
+      <ul class="list-group">
+        <app-blog *ngFor="let blog of blogs"
+                       [blogTitle]="blog.title"
+                       [blogContent]="blog.content"
+					   [blogLoveIt]="blog.loveits"
+					   [blogCreateAt]="blog.created_at"></app-blog>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<router-outlet></router-outlet>
