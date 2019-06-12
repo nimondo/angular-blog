@@ -22,8 +22,8 @@ Chaque PostListItemComponent affichera le titre, le contenu et la date de créat
 Les PostListItemComponent auront des boutons qui permettent d'augmenter et de diminuer le nombre de loveIts — cette modification aura uniquement un effet sur Le component, et n'a pas besoin d'être remontée au component parent
 ##  file 
 
- --run index.html
+ --run build-app/index.html
  
- --The work with component are in work directory
+ --The developpement with component are in work directory
  
 [(Back to TOP)](#table-of-contents)
