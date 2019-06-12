@@ -23,6 +23,7 @@ Les PostListItemComponent auront des boutons qui permettent d'augmenter et de di
 ##  file 
 
  --run index.html
-  the work with component are in work directory
  
-[(Back to TOC)](#table-of-contents)
+ --The work with component are in work directory
+ 
+[(Back to TOP)](#table-of-contents)
